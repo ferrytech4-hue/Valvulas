@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Integral de Control de Calidad de Válvulas PGP 2026",
+  "description": "Plataforma industrial para control de calidad, pruebas hidráulicas (API 598/ISO 5208), liberación QA/QC, carga y procesamiento multi-hoja de Excel, reportes técnicos en PDF (jsPDF) y persistencia offline con IndexedDB a costo cero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
